@@ -5,7 +5,7 @@ Website karang taruna merupakan suatu website organisasi yang dikembangkan untuk
 
 | Name   | Email              | GitHub |
 |--------|--------------------|--------|
-| Axelyo Primastomo |axelyoprimastomo@gmail.com | [](https://github.com/)
+| Axelyo Primastomo |axelyoprimastomo@gmail.com | [@axelxio](https://github.com/)
 | Dimas Bagus Prasetyo | dimasbagusprasetyo837@gmail.com | [@dimasbp](https://github.com/dimasbp)
 | Hijria Permana | hijria.p@gmail.com | [](https://github.com/)
 
