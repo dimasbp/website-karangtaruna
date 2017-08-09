@@ -1,10 +1,7 @@
-Analisis Kebutuhan
+Requirements
 ============
-Hal pertama yang perlu dilakukan dalam analisis kebutuhan website adalah menentukan dan mengungkapkan kebutuhan website. Kebutuhan website terbagi menjadi dua yaitu: kebutuhan fungsional dan kebutuhan non fungsional, yang diperlukan untuk mencapai tujuan yang ingin dicapai. 
 
 ### Analisis Kebutuhan Fungsional :
-Kebutuhan fungsional adalah kebutuhan-kebutuhan yang memiliki keterkaitan langsung dengan website. Berdasarkan hasil diskusi dengan pengurus karang taruna, fitur-fitur fungsional yang ingin ditampilkan di website karang taruna perumahan Cipedak adalah sebagai berikut:
-
 + Home
   Merupakan halaman utama yang ditampilkan saat website pertama kali dibuka.
 + About
@@ -23,17 +20,13 @@ Kebutuhan fungsional adalah kebutuhan-kebutuhan yang memiliki keterkaitan langsu
   Halaman administrator diperlukan untuk proses pengelolaan website secara keseluruhan, mulai dari update informasi karang taruna, update konten website, hingga kustomisasi tema dari website karang taruna itu sendiri.
 
 ### Analisis Kebutuhan Non Fungsional :
-Kebutuhan non-fungsional adalah kebutuhan yang tidak secara langsung terkait dengan fitur tertentu di dalam sistem. Kebutuhan non fungsional dari sistem terdiri dari perangkat keras dan perangkat lunak.
-
 + Kebutuhan Perangkat Keras
-Kebutuhan perangkat keras yang diperlukan untuk mengembangkan website karang taruna adalah sebagai berikut:
   + Laptop Asus Processor Core i3
   + Harddisk 500 Gigabyte
   + RAM 6 GB
   + VGA NVIDIA
   
 + Kebutuhan Perangkat Lunak 
-Adapun perangkat lunak yang digunakan dalam mengembangkan website karang taruna adalah sebagai berikut:
   + Sistem operasi windows 7
   + Google chrome atau Mozilla firefox
   + Wordpress CMS
