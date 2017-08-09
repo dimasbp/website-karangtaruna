@@ -6,7 +6,7 @@ Hal pertama yang perlu dilakukan dalam analisis kebutuhan website adalah menentu
 Kebutuhan fungsional adalah kebutuhan-kebutuhan yang memiliki keterkaitan langsung dengan website. Berdasarkan hasil diskusi dengan pengurus karang taruna, fitur-fitur fungsional yang ingin ditampilkan di website karang taruna perumahan Cipedak adalah sebagai berikut:
 
 + Home
-  Merupakan halaman utama yang ditampilkan saat website pertama kali dibuka.
+    + Merupakan halaman utama yang ditampilkan saat website pertama kali dibuka.
 + About
     + Merupakan halaman yang menampilkan informasi dan deskripsi mengenai karang taruna perumahan Cipedak.
 + Struktur Organisasi
