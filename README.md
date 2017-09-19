@@ -10,11 +10,3 @@ Website karang taruna merupakan suatu website organisasi yang dikembangkan untuk
 | Hijria Permana | hijria.p@gmail.com | [@hijria21](https://github.com/)
 
 
-## Dokumentasi Teknis
-
---------------------------------------------------
-
-### Proses Pengembangan
-
-
---------------------------------------------------
